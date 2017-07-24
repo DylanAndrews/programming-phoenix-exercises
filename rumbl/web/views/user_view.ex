@@ -1,4 +1,4 @@
-require IEx
+# require IEx
 
 defmodule Rumbl.UserView do
   use Rumbl.Web, :view
